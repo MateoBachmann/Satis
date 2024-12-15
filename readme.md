@@ -1,7 +1,7 @@
 This is not the thing you searched for
 
 # reserviert
-### ID
+### IDs
 000-099 // Für Server und Sonderaufgaben\
 100-199 // Terminals\
 200-299 // Kraftwerke und Stromnetz\
