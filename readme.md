@@ -7,5 +7,5 @@
 900-999 // Notfallsysteme
 
 
-# ID-Anhänge\
+# ID-Anhänge
 000-000-NIC // Netzwerkkarte des gerätes
