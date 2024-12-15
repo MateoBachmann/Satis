@@ -1,4 +1,4 @@
-# Reserviert
+# reserviert
 000-099 // Für Server und Sonderaufgaben\
 100-199 // Terminals\
 200-299 // Kraftwerke und Stromnetz\
